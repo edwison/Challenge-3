@@ -1,0 +1,2 @@
+OK let's ensure we know what is going on in challenge 3.
+I make a change to ensure we complete the challenge.
